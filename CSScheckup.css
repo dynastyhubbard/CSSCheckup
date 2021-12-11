@@ -1,0 +1,145 @@
+body {
+    background-color: greenyellow;
+}
+
+
+#number-One {
+    color: black;
+}
+
+#number-Two {
+    font-size: 20px;
+}
+
+.first-class {
+    color: black;
+}
+
+.second-class {
+    font-size: 24px;
+}
+
+#margin-experiment-1
+#margin-experiment-2 {
+    margin: 0;
+}
+.padded-container {
+    border: 2px solid black;
+    margin: 50px;
+    padding: 20px 20px 20px 40px
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.border-style li {
+    margin: 5px;
+}
+
+.border-style li:nth-child(1) {
+    border-style: dotted;
+}
+
+.border-style li:nth-child(2) {
+    border-style: dashed;
+}
+
+.border-style li:nth-child(3) {
+    border-style: solid;
+}
+
+.border-style li:nth-child(4) {
+    border-style: double;
+}
+
+.border-style li:nth-child(5) {
+    border-style: groove;
+}
+
+.border-style li:nth-child(6) {
+    border-style: ridge;
+}
+
+.border-style li:nth-child(7) {
+    border-style: inset;
+}
+
+.border-style li:nth-child(8) {
+    border-style: none;
+}
+
+.border-style li:nth-child(9) {
+    border-style: hidden;
+}
+
+.border-style li:nth-child(10) {
+    border-style: dotted dashed solid double;
+}
+
+.border-width p {
+    border-style: solid;
+    border-width: 5px;
+}
+
+#four-widths {
+    border-style: solid;
+    border-width: 2px 10px 4px 20px;
+}
+
+.example-one {
+    height: 150px;
+    width: 50%;
+    background-color: green;   
+   }
+
+   p {
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+dt {
+
+    font-weight: bold;
+
+
+    font-size: 20px;
+
+
+    margin-top: 1rem;
+}
+
+#family {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#size {
+    font-size: x-large;
+}
+
+#weight { 
+    font-weight: bold;
+}
+
+.background-one {
+    background-color: green;
+    padding: 7px;
+}
+
+
+
+.background-one p {
+    color: white;
+}
+
+.background-two {
+    background-image: url("https://boycewire.com/wp-content/uploads/2019/10/geronimo-giqueaux-Mp4Fq6zj6D4-unsplash-1024x683.jpg");
+
+color: white;
+font-weight: bold;
+padding: .5em 1em
+}
